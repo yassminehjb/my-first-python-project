@@ -26,13 +26,4 @@ At the very end, to fix my environment problems, I moved my code into **GitHub C
 
 ---
 
-## How to use my App
 
-###  Option 1: The Quick Executable (Theee Easiest !)!
-Go to the **(https://github.com/yassminehjb/my-first-python-project)** tab of this repository, download the `Tamagotchi.exe` file, and double click it! It works instantly on Windows.
-
-###  Option 2: Run via Source Code:
-If you want to run the python code directly:
-1. Install the requirements:
-   ```bash
-   pip install customtkinter
